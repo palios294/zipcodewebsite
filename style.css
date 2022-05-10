@@ -50,7 +50,7 @@ vstup do searchbar
 obrazok lupy 
 */
 .search-bar button img{
-    width: 25px;
+    width: 100%;
 }
 /* tlačiko hladat */
 .search-bar button{
